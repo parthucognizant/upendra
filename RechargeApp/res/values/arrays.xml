@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_type">
+        <item>mobile</item>
+        <item>dth</item>
+        <item>datacard</item>
+    </string-array>
+    <string-array name="spinner_provider">
+        <item>airtel</item>
+        <item>vodafone</item>
+        <item>idea</item>
+    </string-array>
+
+    
+</resources>
